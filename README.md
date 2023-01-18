@@ -1,1 +1,1 @@
-#live : Kinkro.github.io/clock-app/
+#live : https://www.Kinkro.github.io/clock-app/
