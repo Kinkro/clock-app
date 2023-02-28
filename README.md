@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![clockApp](https://user-images.githubusercontent.com/85110325/221851215-182205d1-f2ce-450c-be43-bf5fea306687.jpg)
+![Untitled](https://user-images.githubusercontent.com/85110325/221854194-483c3ade-46d5-4a5a-9b07-5a419732b922.jpg)
 
 
 
