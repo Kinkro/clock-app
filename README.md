@@ -30,7 +30,7 @@ Users should be able to:
 ### Built with
 
 - Mobile-first workflow
-- Axios/Fetch
+- Fetch API
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
